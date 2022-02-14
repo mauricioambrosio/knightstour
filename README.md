@@ -6,7 +6,7 @@ to compile and run the project do the following:
 2. run: javac Main.java
 3. run: java Main
 
-4. Below is an output example of the program:
+Below is an output example of the program:
 
 what position do you want your knight to start from?
 x:y:
